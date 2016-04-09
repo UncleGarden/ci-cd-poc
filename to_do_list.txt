@@ -1,0 +1,12 @@
+JIRA - Ticketing
+Github - Repo
+Jenkins
+Sonar - Reporting
+Puppet/Chef
+
+===
+1. master/slave
+2. Jenkins + Github
+3. Email notification
+4. Sonar + code coverage
+5. Puppet/Chef + Depolyment
